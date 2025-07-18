@@ -1,5 +1,5 @@
 <img width="1621" height="441" alt="banner" src="https://github.com/user-attachments/assets/aa07d7d4-236f-4815-8494-af7a2bd69c18" />
-Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my space!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my space!
 =============================================================================================================================
 
 Web design and development
